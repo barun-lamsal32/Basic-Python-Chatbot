@@ -1,2 +1,9 @@
-# Basic-Python-Chatbot
-This is a beginner-friendly Python chatbot project.   It responds to simple user questions using predefined replies and runs until the user types **bye**. 
+A simple Python chatbot that replies to basic questions using predefined answers.  
+The chatbot keeps running until the user types **bye**.
+
+## What You Learn
+- Python basics
+- Conditional statements
+- Functions
+- Dictionaries
+- Loops
